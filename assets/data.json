@@ -1,0 +1,26 @@
+[
+  {
+   "placeImage": "images/bluehill.jpg",
+    "placeName": "Blue Hill",
+    "placeItems": ["Burgers","Pizzas","Drinks","Noodle","Chinese","Italian"],
+    "minOrder": 20
+  },
+  {
+    "placeImage": "images/pizzahut.jpg",
+    "placeName": "Pizza",
+    "placeItems": ["Burgers","Pizzas","Drinks","Noodle","Chinese","Italian"],
+    "minOrder": 30
+  },
+  {
+    "placeImage": "images/hawkers.jpg",
+    "placeName": "The Hawkers",
+    "placeItems": ["Burgers","Pizzas","Drinks","Noodle","Chinese","Italian"],
+    "minOrder": 40
+  },
+  {
+    "placeImage": "images/flipping.jpg",
+    "placeName": "Flipping Noodles",
+    "placeItems": ["Burgers","Pizzas","Drinks","Noodle","Chinese","Italian"],
+    "minOrder": 50
+  }
+]
